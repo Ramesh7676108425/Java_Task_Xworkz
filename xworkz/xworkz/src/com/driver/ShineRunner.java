@@ -1,0 +1,33 @@
+package com.driver;
+
+
+import com.things.Shine;
+
+public class ShineRunner {
+	
+	public static void main (String args[]) {
+		
+		  Shine X=new Shine();
+		  
+		  Shine Y =new Shine("royalrami");
+		  
+		 // Shine Z = new Shine("royalrami",600);
+		  
+		//  Shine xy=new Shine ("royalrami",600,true);
+		  
+		  
+		//  Shine yz=new Shine("royalrami",600,true,465);
+		  
+		//  Shine yx=new Shine("royalrami",600,true,465,"ahimsa");
+		  
+		//  Shine zz=new Shine("royalrami",600,true,465,"ahimsa",6);
+		  
+		  
+		  
+	}
+	
+
+}
+
+
+

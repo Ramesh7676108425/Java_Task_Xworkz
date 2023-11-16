@@ -1,0 +1,31 @@
+package com.driver;
+
+import com.things.Coffee;
+import com.things.CoffeePowder;
+import com.things.Milk;
+
+public class CoffeeRunner {
+	
+	public static void main (String args[]) {
+		
+		 Coffee coffee=new Coffee();
+		 
+		  Milk milk=new Milk();
+		  
+		  CoffeePowder coffeePowder=new CoffeePowder();
+		  
+		  milk.setLiters(4);
+		  coffee.setMilk(milk);
+		  System.out.println(coffee.getMilk().getLiters());
+		  milk.setType("nandini");
+		  coffee.setMilk(milk);
+		  System.out.println(coffee.getMilk().getType());
+		  milk.setPrice(20);
+		  coffee.setMilk(milk);
+		  System.out.println(coffee.getMilk().getPrice());
+	
+		  
+		 
+	}
+
+}

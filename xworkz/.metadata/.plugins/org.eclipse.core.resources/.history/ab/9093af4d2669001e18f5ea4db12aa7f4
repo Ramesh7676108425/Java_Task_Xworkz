@@ -1,0 +1,23 @@
+package com.things;
+
+public class ProductName {
+	int index=0;
+	
+	
+	int[] ProductList=new int[5];
+	
+	public void onsave( int productName) {
+		
+		System.out.println("productList is:"+ProductList);
+		if (index<ProductList.length) {
+			ProductList[index]=ProductName;
+			index++;
+			
+		}
+		else {
+			System.out.println("product list is full")
+		}
+	}
+	
+
+}

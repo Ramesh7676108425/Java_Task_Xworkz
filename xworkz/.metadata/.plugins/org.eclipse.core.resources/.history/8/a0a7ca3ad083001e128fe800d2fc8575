@@ -1,0 +1,16 @@
+package com.things;
+
+public class Implicit {
+	public static void main(String args[]) {
+		int price =897363;
+		System.out.println("price is:"+price);
+		
+		
+		long totalPrice=price;
+		System.out.println("total price is:"+totalPrice);
+		
+	}
+	
+	
+
+}

@@ -1,0 +1,12 @@
+package com.xworkz.xyz;
+
+public class Test {
+	
+	private int data=40;
+	
+	public static void main(String args[]) {
+		Test s=new Test();
+		System.out.println("data is :"+s.data);
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.things;
+
+public class Variable {
+	
+		   int a=10;
+		  public static void main(String args[]){
+		  Variable xyz=new Variable();
+		  
+		  System.out.println(xyz.a);
+		  }
+		  
+		  
+		  
+
+		}
+
+

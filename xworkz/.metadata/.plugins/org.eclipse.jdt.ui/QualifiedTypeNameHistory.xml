@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.things.ProductName"/>
+    <fullyQualifiedTypeName name="com.things.ContactNumber"/>
+    <fullyQualifiedTypeName name="com.things.GameName"/>
+    <fullyQualifiedTypeName name="com.things.IPL"/>
+    <fullyQualifiedTypeName name="com.things.Branch"/>
+    <fullyQualifiedTypeName name="com.things.CountryName"/>
+    <fullyQualifiedTypeName name="com.things.Instagram22"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.things.Movie"/>
+    <fullyQualifiedTypeName name="com.things.Channel"/>
+    <fullyQualifiedTypeName name="java.awt.print.Paper"/>
+    <fullyQualifiedTypeName name="com.things.Plastic"/>
+    <fullyQualifiedTypeName name="com.things.Wastage"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,13 @@
+package com.xworkz.enums.constant;
+
+public class ColorsName {
+	
+	
+	BLUE,
+	YELLOW,
+	
+	
+	
+	
+
+}

@@ -1,0 +1,5 @@
+package com.xworkz.enums.constant;
+
+public enum Colors {
+
+}
